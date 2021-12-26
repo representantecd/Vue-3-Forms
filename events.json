@@ -1,0 +1,13 @@
+[
+ {
+   "id":1,
+   "category": "Animal welfare!",
+   "title": "Frenz of bunz",
+   "description": "🐰 an frenz",
+   "location": "Zoom -stay safe",
+   "pets": 1,
+   "extras": {
+   "catering": true,
+   "music": true
+ }
+]
